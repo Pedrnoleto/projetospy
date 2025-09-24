@@ -2,7 +2,7 @@ import pyttsx3
 from kivy.app import App
 from kivy.uix.button import Button
 
-# Inicializa o motor de voz
+
 ligar = pyttsx3.init()
 
 
